@@ -32,7 +32,7 @@ Turtlebot3_simulations This is package was used for navigation. to localize the 
 ## clonning 
 clone the project to your src directoy, then catkin_make
 ### shell scripts
-run teh projects using home_service.sh from scripts directory using $ ./home_service.sh
+run h projects using home_service.sh from scripts directory using '$ ./home_service.sh'
 
 
 
